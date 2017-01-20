@@ -1,6 +1,6 @@
 {
   "name": "require-cache-mock",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mock modules from anywhere in your node project",
   "main": "index.js",
   "scripts": {
