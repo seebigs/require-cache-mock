@@ -1,0 +1,24 @@
+{
+  "name": "require-cache-mock",
+  "version": "0.1.0",
+  "description": "Mock modules from anywhere in your node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/automated"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/require-cache-mock.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/require-cache-mock/issues"
+  },
+  "devDependencies": {
+    "feather-test": "^1.2.0"
+  },
+  "dependencies": {
+    "mock-require": "^2.0.1"
+  }
+}
